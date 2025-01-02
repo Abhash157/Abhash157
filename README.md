@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi, I am Abhash 👋
+ 
+ I'm a Front-End Developer who likes problem-solving, coding, reading, and technology. I enjoy learning about new things everyday. 
 
+ ## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@abhash/30-nites-of-code)  
+  ![@abhash #30NitesOfCode](https://www.codedex.io/api/petStatus?user=abhash)
 <!--
 **Abhash157/Abhash157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
