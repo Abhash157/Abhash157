@@ -1,6 +1,6 @@
 ## Hi, I am Abhash 👋
  
- I'm a Front-End Developer who likes problem-solving, coding, reading, and technology. I enjoy learning about new things everyday. 
+ I'm a Front-End Developer who likes problem-solving, coding, reading, and technology. I enjoy learning new things everyday. 
 
  ## #30NitesOfCode:
   Say hi to Ryu!
