@@ -2,7 +2,6 @@
  
  I'm a Front-End Developer who likes problem-solving, coding, reading, and technology. I enjoy learning new things everyday. 
 
- ## #30NitesOfCode:
   Say hi to Ryu!
   
   ![@abhash #30NitesOfCode](https://www.codedex.io/api/petStatus?user=abhash)
