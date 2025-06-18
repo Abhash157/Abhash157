@@ -1,5 +1,3 @@
-![Snake animation](https://github.com/matt-ftw/matt-ftw/blob/output/github-contribution-grid-snake-dark.svg)
-
 ## Hi, I am Abhash 👋
  
  I'm a Front-End Developer who likes problem-solving, coding, reading, and technology. I enjoy learning new things everyday. 
