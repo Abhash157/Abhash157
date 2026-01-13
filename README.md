@@ -2,7 +2,7 @@
  
  I'm a Front-End Developer who likes problem-solving, coding, reading, and technology. I enjoy learning new things everyday. 
 
- 
+ ![Codey - Your GitHub Pet](https://raw.githubusercontent.com/Abhash157/main/codey.svg)
 <!--
 **Abhash157/Abhash157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
